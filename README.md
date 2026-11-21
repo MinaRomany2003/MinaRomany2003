@@ -12,7 +12,7 @@
 - 📈 Skilled in crafting dashboards, conducting data cleaning, and uncovering business insights.
 - 🧠 Currently expanding my knowledge in *Advanced SQL* and *Statistical Analysis*.
 - 🤝 Looking to collaborate on *Data Visualization* and *Business Intelligence* projects.
-- 📄 Check out my resume [here]([https://drive.google.com/file/d/13z7EHhMHD5sFptBdzUruVv7pkmgWCNYN/view?usp=sharing](https://drive.google.com/file/d/1W5jFUxbkzFfhwgS6E9082ett3KdrP0Zn/view?usp=sharing)) <!-- Replace with actual link -->
+- 📄 Check out my resume [here]([https://drive.google.com/file/d/13z7EHhMHD5sFptBdzUruVv7pkmgWCNYN/view?usp=sharing](https://drive.google.com/file/d/1W5jFUxbkzFfhwgS6E9082ett3KdrP0Zn/view?usp=sharing) <!-- Replace with actual link -->
 - 📫 Reach me at *minarampo2@gmail.com* <!-- Replace with actual email -->
 - ⚡ Fun Fact: *I enjoy turning raw data into real decisions* 💡
 
